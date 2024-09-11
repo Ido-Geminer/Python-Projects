@@ -1,3 +1,5 @@
-I created a Python GUI using Tkinter to collect user credentials (username, ID, password) and automate interactions with Moodle via Selenium WebDriver.
+I created a Python GUI using Tkinter to collect user credentials (username, ID, password) via a submit button and automate interactions with Moodle via Selenium WebDriver.
 The app checks for valid input, shows error messages, and automates form submission, so users don’t have to search for Moodle and enter the login page manually each time.
-It uses Chrome WebDriver for automation, streamlining the login process. 
+It uses Chrome WebDriver for automation, streamlining the login process.
+
+
